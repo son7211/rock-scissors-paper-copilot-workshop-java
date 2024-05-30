@@ -1,0 +1,9 @@
+{
+    "name": "Java Development",
+    "image": "openjdk:21",
+    "customizations": {
+        "vscode": {
+            "extensions": ["vscjava.vscode-java-pack", "github.copilot"]
+        }
+    }
+}
