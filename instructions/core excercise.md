@@ -27,7 +27,7 @@
 - Code 블럭을 선택한 뒤, Copilot chat에 #selection 을 입력하고 선택한 코드 블럭에 대한 설명을 요청하세요.
 - Code 블럭을 선택한 뒤, 마우스 오른쪽 버튼을 클릭하여 'Copilot' 메뉴를 선택하세요.
   <p>
-  <img src="/assets/copilot_chat_rightmouse.png" alt="Copilot Menu" width="300" height="200">
+  <img src="/assets/copilot_chat_rightmouse.png" alt="Copilot Menu" width="300" height="400">
   </p>
 
 - 다른 메뉴 (문서 생성등)도 한번 사용해 보세요.
