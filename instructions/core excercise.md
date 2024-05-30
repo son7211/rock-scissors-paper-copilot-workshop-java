@@ -18,13 +18,17 @@
   // 게임이 종료되면 사용자가 이긴 횟수, 진 횟수, 비긴 횟수를 출력한다.
   ```
 - 화면 우측 상단의 실행 버튼에서 'Run Java'를 선택하여 코드를 실행하세요.
-  <img src="/assets/runJava.png" alt="Run Java" width="200" height="200">
+  <p> 
+  <img src="/assets/runJava.png" alt="Run Java" width="300" height="200">
+  </p>
 
 #### 3. Copilot chat을 사용해 보기
 - 왼편의 말풍선 모양 아이콘을 클릭하여 Copilot chat을 열어주세요.
 - Code 블럭을 선택한 뒤, Copilot chat에 #selection 을 입력하고 선택한 코드 블럭에 대한 설명을 요청하세요.
 - Code 블럭을 선택한 뒤, 마우스 오른쪽 버튼을 클릭하여 'Copilot' 메뉴를 선택하세요.
-  <img src="/assets/copilot_chat_rightmouse.png" alt="Copilot Menu" width="200" height="200">
+  <p>
+  <img src="/assets/copilot_chat_rightmouse.png" alt="Copilot Menu" width="300" height="200">
+  </p>
 
 - 다른 메뉴 (문서 생성등)도 한번 사용해 보세요.
 
