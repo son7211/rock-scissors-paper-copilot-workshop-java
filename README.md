@@ -1,5 +1,7 @@
 # Copilot 실습 - 가위 바위 보 게임 만들기
-<img src="/assets/Rock Paper Scissors image.png" alt="Rock Paper Scissors image" width="200" height="200">
+<div align="center">
+    <img src="/assets/Rock Paper Scissors image.png" alt="Rock Paper Scissors image" width="400" height="400" >
+</div>
 
 ## 가위 바위 보 게임을 만들어 보는 Copilot 실습 입니다. 
 - 이번 실습에서는 Copilot을 사용하여 가위 바위 보 게임을 만들어 보겠습니다.
