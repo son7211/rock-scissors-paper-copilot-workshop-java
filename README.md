@@ -10,8 +10,8 @@
 
 ## 실습 순서
 - 저장소 우측 상단에 있는 `Use this template` 버튼을 클릭하고, 하단에 'Open in a codespace' 버튼을 클릭하여 Codespace을 생성합니다.
-- /instructions 폴더에 있는 core exercise 파일을 참고하여 실습을 진행합니다.
-  - [core excercise](./instructions/core%20excercise.md) 파일을 참고하여 가위 바위 보 게임을 만들어 보세요.
-  - [challenge excercise](./instructions/challenge%20excercise.md) 파일을 참고하여 가위 바위 보 게임을 업그레이드 해보세요.
+- /instructions 폴더에 있는 core exercise와 Challenge exercise파일을 참고하여 실습을 진행합니다.
+  - [1. Core excercise](./instructions/core%20excercise.md) 파일을 참고하여 가위 바위 보 게임을 만들어 보세요.
+  - [2. Challenge excercise](./instructions/challenge%20excercise.md) 파일을 참고하여 가위 바위 보 게임을 업그레이드 해보세요.
 
 
