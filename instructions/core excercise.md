@@ -1,6 +1,6 @@
 ## Core excerise
 #### 1. Codespace 실행
-- 저장소 제목 우측에 'user this template' 버튼을 클릭하고, 'Open in a codespaces'를 선택하세요.
+- 저장소 제목 우측에 'use this template' 버튼을 클릭하고, 'Open in a codespaces'를 선택하세요.
 
 #### 2. Main.java작성
 
