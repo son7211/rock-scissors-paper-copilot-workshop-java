@@ -17,10 +17,8 @@
     // 사용자가 '그만'을 입력하면 게임을 종료한다.
     // 게임이 종료되면 사용자가 이긴 횟수, 진 횟수, 비긴 횟수를 출력한다.
     ```
-- 화면 우측 상단의 실행 버튼에서 'Run Java'를 선택하여 코드를 실행하세요.
-  <p> 
-  <img src="/assets/runJava.png" alt="Run Java" width="300" height="200">
-  </p>
+- 터미널에서 'javac Main.java'를 입력하여 컴파일하세요.
+- 터미널에서 'java Main'을 입력하여 실행하세요.
 
 #### 3. Unit test 작성
 - 왼편의 말풍선 모양 아이콘을 클릭하여 Copilot chat을 열어주세요.
