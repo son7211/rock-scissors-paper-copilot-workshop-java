@@ -1,13 +1,19 @@
 {
-    "name": "Java Development",
-    "image": "openjdk:17",
+    "name": "Java Development with Gradle",
+    "build": {
+        "dockerfile": "Dockerfile" // Dockerfile 사용 설정
+    },
     "customizations": {
         "vscode": {
-            "settings": { 
-                "java.jdt.ls.java.home": "/usr/java/openjdk-17/bin/java"
-                },
-                
-            "extensions": ["vscjava.vscode-java-pack", "vscjava.vscode-gradle", "github.copilot", "github.copilot-chat"]
+            // "settings": { 
+            //     "java.jdt.ls.java.home": "/usr/java/openjdk-17/bin/java"
+            // },
+            "extensions": [
+                "vscjava.vscode-java-pack",
+                "vscjava.vscode-gradle",
+                "github.copilot",
+                "github.copilot-chat"
+            ]
         }
     }
 }
